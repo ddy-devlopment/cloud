@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "nama": "teet",
+    "stok": "out-of-stock",
+    "terjual": 33435,
+    "rating": 4,
+    "gambar": "ahh memek",
+    "deskripsi_singkat": "desk",
+    "deskripsi_lengkap": "deskripsi",
+    "varian": [
+      {
+        "name": "snsnjsjsn",
+        "harga_asli": 1616161,
+        "harga_diskon": 6464
+      }
+    ],
+    "id": "i.138358.182829984",
+    "url": "https://web3-olshop.vercel.app/product/i.138358.182829984"
+  }
+]
