@@ -1,6 +1,6 @@
 [
   {
-    "nama": "Config Http Custom",
+    "nama": "Config Http CustomConfig Http Custom",
     "stok": "in-stock",
     "terjual": 1540,
     "rating": 5,
@@ -10,13 +10,13 @@
     "varian": [
       {
         "name": "premier",
-        "harga_asli": 500000,
-        "harga_diskon": 258000
+        "harga_asli": 12000,
+        "harga_diskon": 88800
       },
       {
         "name": "basic",
-        "harga_asli": 300000,
-        "harga_diskon": 150000
+        "harga_asli": 20011,
+        "harga_diskon": 26002
       }
     ],
     "id": "i.705853.182883117",
