@@ -11,12 +11,12 @@
       {
         "name": "premier",
         "harga_asli": 12000,
-        "harga_diskon": 88800
+        "harga_diskon": 888
       },
       {
         "name": "basic",
         "harga_asli": 20011,
-        "harga_diskon": 26002
+        "harga_diskon": 260
       }
     ],
     "id": "i.705853.182883117",
