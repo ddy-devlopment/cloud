@@ -10,13 +10,13 @@
     "varian": [
       {
         "name": "premier",
-        "harga_asli": 8888899,
-        "harga_diskon": 88881
+        "harga_asli": 55555,
+        "harga_diskon": 55555
       },
       {
         "name": "basic",
         "harga_asli": 2001134,
-        "harga_diskon": 26013
+        "harga_diskon": 2001134
       }
     ],
     "id": "i.705853.182883117",
