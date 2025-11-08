@@ -270,5 +270,43 @@
     ],
     "id": "i.437013.259005145",
     "url": "https://snayders.web.id/product/i.437013.259005145"
+  },
+  {
+    "nama": "Xtra Kuota Udemy 15GB, 7hr",
+    "stok": "in-stock",
+    "terjual": 154,
+    "rating": 4.5,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/6e174c30.jpg",
+    "deskripsi_singkat": "Xtra Kuota Udemy 15GB, 7hr, Paket harga termurah",
+    "deskripsi_lengkap": "Xtra Kuota Udemy 15GB, 7hr, paket pengganti edukasi yang sudah naik harga, inject  perminggu, tidak unlimited, cocok disemua tkp, harap membeli dengan config agar bisa digunakan, non resmi.",
+    "varian": [
+      {
+        "name": "Kuota Udemy 15GB, 7hr",
+        "harga_asli": 15000,
+        "harga_diskon": 9000
+      },
+      {
+        "name": "Kuota Udemy 15GB, 7hr + Config ID 7hr 1ip",
+        "harga_asli": 18000,
+        "harga_diskon": 12000
+      },
+      {
+        "name": "Kuota Udemy 15GB, 7hr + Config ID 15hr 1ip",
+        "harga_asli": 20000,
+        "harga_diskon": 15000
+      },
+      {
+        "name": "Config Udemy saja, ID 30hr 1ip",
+        "harga_asli": 13000,
+        "harga_diskon": 10000
+      },
+      {
+        "name": "Config Udemy saja, ID 30hr 2ip",
+        "harga_asli": 15000,
+        "harga_diskon": 13000
+      }
+    ],
+    "id": "i.401464.261085196",
+    "url": "https://snayders.web.id/product/i.401464.261085196"
   }
 ]
