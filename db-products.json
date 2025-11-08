@@ -150,5 +150,28 @@
     ],
     "id": "i.244980.258212111",
     "url": "https://snayders.web.id/product/i.244980.258212111"
+  },
+  {
+    "nama": "BIZ E-Commerce (Recurring M3-M5)",
+    "stok": "in-stock",
+    "terjual": 385,
+    "rating": 4.5,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/7732b674.jpg",
+    "deskripsi_singkat": "BIZ E-Commerce (Recurring M3-M5) Paket Inject unlimited murah",
+    "deskripsi_lengkap": "BIZ E-Commerce (Recurring M3-M5) Paket Inject Unlimited, rekomendasi untuk zona area barat. jika ga tau zonanya bisa hubungi admin. non resmi .\n#Tetap jangan ragu, karena ragumu rugimu. Kalo ragu mending mundur. Udah paling terbaik. Jika ga untung setidaknya ga rugi :)",
+    "varian": [
+      {
+        "name": "BIZ E-Commerce",
+        "harga_asli": 65000,
+        "harga_diskon": 55000
+      },
+      {
+        "name": "BIZ E-Commerce + Config ID 2ip",
+        "harga_asli": 78000,
+        "harga_diskon": 65000
+      }
+    ],
+    "id": "i.494267.258270832",
+    "url": "https://snayders.web.id/product/i.494267.258270832"
   }
 ]
