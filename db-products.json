@@ -173,5 +173,38 @@
     ],
     "id": "i.494267.258270832",
     "url": "https://snayders.web.id/product/i.494267.258270832"
+  },
+  {
+    "nama": "Xtra Unlimited Turbo Tik Tok",
+    "stok": "in-stock",
+    "terjual": 694,
+    "rating": 5,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/7815e075.jpg",
+    "deskripsi_singkat": "Xtra Unlimited Turbo Tik Tok, Paket Unlimited Murah",
+    "deskripsi_lengkap": "Xtra Unlimited Turbo Tik Tok, Paket Inject Unlimited, rekomendasi untuk semua Area. Harga berbeda-beda disetiap nomor. jadi harga dicek dahulu dengan admin, dan segera melakukan pembelian..\n#Tetap jangan ragu, karena ragumu rugimu. Kalo ragu mending mundur. Udah paling terbaik. Jika ga untung setidaknya ga rugi :)",
+    "varian": [
+      {
+        "name": "XUT Tik Tok v1",
+        "harga_asli": 40000,
+        "harga_diskon": 35000
+      },
+      {
+        "name": "XUT Tik Tok v2",
+        "harga_asli": 60000,
+        "harga_diskon": 55000
+      },
+      {
+        "name": "Xut Tik Tok v1 + Config ID 2ip",
+        "harga_asli": 50000,
+        "harga_diskon": 45000
+      },
+      {
+        "name": "Xut Tik Tok v2 + Config ID 2ip",
+        "harga_asli": 70000,
+        "harga_diskon": 65000
+      }
+    ],
+    "id": "i.239185.258334301",
+    "url": "https://snayders.web.id/product/i.239185.258334301"
   }
 ]
