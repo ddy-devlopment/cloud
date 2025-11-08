@@ -74,5 +74,43 @@
     ],
     "id": "i.612254.257737007",
     "url": "https://snayders.web.id/product/i.612254.257737007"
+  },
+  {
+    "nama": "V2RAY VMess. WS, TLS, GRPC. ID 🇮🇩",
+    "stok": "in-stock",
+    "terjual": 12000,
+    "rating": 5,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/297f7640.png",
+    "deskripsi_singkat": "V2Ray ini dengan server dedicated berkualitas Cocok untuk Sosmed, Live Streming DLL",
+    "deskripsi_lengkap": "V2Ray dengan server dedicated terbaik. tersedia bug wildcard untuk akun ini. silahkan hubungi admin setelah membeli. bonus config apapun jika tersedia",
+    "varian": [
+      {
+        "name": "V2Ray VMess 7 hari 1ip/dev",
+        "harga_asli": 5000,
+        "harga_diskon": 3000
+      },
+      {
+        "name": "V2Ray VMess 15 hari 1ip/dev",
+        "harga_asli": 7000,
+        "harga_diskon": 5000
+      },
+      {
+        "name": "V2Ray VMess 30 hari 1ip/dev",
+        "harga_asli": 13000,
+        "harga_diskon": 10000
+      },
+      {
+        "name": "V2Ray VMess 30 hari 2ip/dev",
+        "harga_asli": 15000,
+        "harga_diskon": 13000
+      },
+      {
+        "name": "V2Ray VMess 60 hari 2ip/dev",
+        "harga_asli": 30000,
+        "harga_diskon": 25000
+      }
+    ],
+    "id": "i.919943.257956586",
+    "url": "https://snayders.web.id/product/i.919943.257956586"
   }
 ]
