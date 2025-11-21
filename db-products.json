@@ -229,33 +229,33 @@
     "nama": "Xtra Kuota Udemy 15GB, 7hr",
     "stok": "in-stock",
     "terjual": 154,
-    "rating": 4.5,
-    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/6e174c30.jpg",
-    "deskripsi_singkat": "Xtra Kuota Udemy 15GB, 7hr, Paket harga termurah",
-    "deskripsi_lengkap": "Xtra Kuota Udemy 15GB, 7hr, paket pengganti edukasi yang sudah naik harga, inject  perminggu, tidak unlimited, cocok disemua tkp, harap membeli dengan config agar bisa digunakan, non resmi.",
+    "rating": 4.9,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/d03ed99b.jpg",
+    "deskripsi_singkat": "Xtra Kuota Edukasi 15GB, 7hr, Paket harga termurah",
+    "deskripsi_lengkap": "Xtra Kuota Edukasi 15GB, 7hr. inject  perminggu, tidak unlimited, cocok disemua tkp, harap membeli dengan config agar bisa digunakan dan mendapatkan harga murah.",
     "varian": [
       {
-        "name": "Kuota Udemy 15GB, 7hr",
+        "name": "Kuota Edukasi 15GB, 7hr",
         "harga_asli": 15000,
         "harga_diskon": 9000
       },
       {
-        "name": "Kuota Udemy 15GB, 7hr + Config ID 7hr 1ip",
+        "name": "Kuota Edukasi 15GB, 7hr + Config ID 7hr 1ip",
         "harga_asli": 18000,
         "harga_diskon": 12000
       },
       {
-        "name": "Kuota Udemy 15GB, 7hr + Config ID 15hr 1ip",
+        "name": "Kuota Edukasi 15GB, 7hr + Config ID 15hr 1ip",
         "harga_asli": 20000,
         "harga_diskon": 15000
       },
       {
-        "name": "Config Udemy saja, ID 30hr 1ip",
+        "name": "Config Edukasi saja, ID 30hr 1ip",
         "harga_asli": 13000,
         "harga_diskon": 10000
       },
       {
-        "name": "Config Udemy saja, ID 30hr 2ip",
+        "name": "Config Edukasi saja, ID 30hr 2ip",
         "harga_asli": 15000,
         "harga_diskon": 13000
       }
