@@ -262,5 +262,23 @@
     ],
     "id": "i.401464.261085196",
     "url": "https://snayders.web.id/product/i.401464.261085196"
+  },
+  {
+    "nama": "XL CIRCLE PAKET REGULER",
+    "stok": "in-stock",
+    "terjual": 1658,
+    "rating": 5,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/4c97ef18.jpg",
+    "deskripsi_singkat": "XL CIRCLE PAKET REGULER RESMI",
+    "deskripsi_lengkap": "Kuota Utama Nasional\nPastikan nomer sudah aktif minimal 60 hari & belum pernah jadi anggota circle di bulan ini\nTidak menambah masa aktif\nMasa aktif paket 28 hari\nKesalahan nomor bukan tanggung jawab kami. Paket Resmi",
+    "varian": [
+      {
+        "name": "XL CIRCLE PROMO 5GB-9GB",
+        "harga_asli": 17500,
+        "harga_diskon": 15000
+      }
+    ],
+    "id": "i.680369.430009955",
+    "url": "https://snayders.web.id/product/i.680369.430009955"
   }
 ]
