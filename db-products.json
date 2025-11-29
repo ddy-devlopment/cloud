@@ -266,16 +266,36 @@
   {
     "nama": "XL CIRCLE PROMO FULL KUOTA UTAMA/ REGULER",
     "stok": "in-stock",
-    "terjual": 1658,
+    "terjual": 59864,
     "rating": 5,
     "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/4c97ef18.jpg",
     "deskripsi_singkat": "XL CIRCLE PAKET REGULER RESMI",
     "deskripsi_lengkap": "📦 XL CIRCLE – Full Kuota Utama (Reguler)/n/n\n\n• Cek kuota hanya di aplikasi MyXL → menu XL CIRCLE.\n• Pernah join Circle bulan ini = tidak bisa order. Tunggu tanggal 1, bulan depan.\n• Khusus XL Prabayar, usia kartu minimal 60 hari.\n• Masa aktif 28 hari / sampai kuota habis. Jika habis lebih cepat = freeze/ beku tunggu sampai bulan depan, baru bisa order paket kembali.\n• Tidak menambah masa aktif kartu & paket tidak bisa dipakai jika kartu masa tenggang.\n• Kuota lain akan terpakai dulu sebelum Circle.\n• Tanpa OTP.\n• Dilarang unreg / keluar Circle → garansi hangus tanpa refund.\n\n~Kesalahan Nomor, Bukan Tanggung Jawab kami",
     "varian": [
       {
-        "name": "XL CIRCLE PROMO 5GB-9GB",
+        "name": "XL CIRCLE 5GB-9GB",
         "harga_asli": 17500,
         "harga_diskon": 15000
+      },
+      {
+        "name": "XL CIRCLE 7GB-11GB",
+        "harga_asli": 29000,
+        "harga_diskon": 27000
+      },
+      {
+        "name": "XL CIRCLE 10GB-14GB",
+        "harga_asli": 24000,
+        "harga_diskon": 20000
+      },
+      {
+        "name": "XL CIRCLE 12GB-16GB",
+        "harga_asli": 35000,
+        "harga_diskon": 31000
+      },
+      {
+        "name": "XL CIRCLE 15GB-19GB",
+        "harga_asli": 30000,
+        "harga_diskon": 26000
       }
     ],
     "id": "i.680369.430009955",
