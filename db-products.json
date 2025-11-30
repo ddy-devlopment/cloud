@@ -449,6 +449,21 @@
         "name": "XL CIRCLE 87GB-91GB",
         "harga_asli": 101000,
         "harga_diskon": 101000
+      },
+      {
+        "name": "XL CIRCLE 92GB-96GB",
+        "harga_asli": 105000,
+        "harga_diskon": 105000
+      },
+      {
+        "name": "XL CIRCLE 97GB-101GB",
+        "harga_asli": 111000,
+        "harga_diskon": 111000
+      },
+      {
+        "name": "XL CIRCLE 102GB-106GB",
+        "harga_asli": 114000,
+        "harga_diskon": 114000
       }
     ],
     "id": "i.949822.446770537",
