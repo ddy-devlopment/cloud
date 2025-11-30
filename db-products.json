@@ -394,6 +394,46 @@
         "name": "XL CIRCLE 32GB-36GB",
         "harga_asli": 52000,
         "harga_diskon": 52000
+      },
+      {
+        "name": "XL CIRCLE 37GB-41GB",
+        "harga_asli": 55000,
+        "harga_diskon": 55000
+      },
+      {
+        "name": "XL CIRCLE 42GB-46GB",
+        "harga_asli": 58000,
+        "harga_diskon": 58000
+      },
+      {
+        "name": "XL CIRCLE 47GB-51GB",
+        "harga_asli": 63000,
+        "harga_diskon": 63000
+      },
+      {
+        "name": "XL CIRCLE 52GB-56GB",
+        "harga_asli": 68000,
+        "harga_diskon": 68000
+      },
+      {
+        "name": "XL CIRCLE 57GB-61GB",
+        "harga_asli": 72000,
+        "harga_diskon": 72000
+      },
+      {
+        "name": "XL CIRCLE 62GB-66GB",
+        "harga_asli": 78000,
+        "harga_diskon": 78000
+      },
+      {
+        "name": "XL CIRCLE 67GB-71GB",
+        "harga_asli": 82000,
+        "harga_diskon": 82000
+      },
+      {
+        "name": "XL CIRCLE 72GB-76GB",
+        "harga_asli": 86000,
+        "harga_diskon": 86000
       }
     ],
     "id": "i.949822.446770537",
