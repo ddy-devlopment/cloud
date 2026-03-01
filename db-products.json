@@ -6,50 +6,50 @@
     "rating": 4.9,
     "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/d05a67f0.jpg",
     "deskripsi_singkat": "SSH IDN 🇮🇩 & SG 🇸🇬 VPN-SERVER DEDICATED + CONFIG. PERFORMA STABIL DAN MAKSIMAL ",
-    "deskripsi_lengkap": "SSH Tunneling Dedicated Server – Indonesia\nServer dedicated dengan performa maksimal dan stabil.\nCocok untuk kebutuhan tunneling, inject, VPN, config, dan sejenisnya.\nLow latency, full speed, koneksi aman terenkripsi.\n\n~Bonus: Tersedia Config Apapun Jika Ada!!",
+    "deskripsi_lengkap": "SSH dan V2ray Tunneling Dedicated Server – Indonesia\nServer dedicated dengan performa maksimal dan stabil.\nCocok untuk kebutuhan tunneling, inject, VPN, config, dan sejenisnya.\nLow latency, full speed, koneksi aman terenkripsi.\n\n~Bonus: Tersedia Config Apapun Jika Ada!!\n~Pilih salah satu, SSH atau V2RAY. 🙏",
     "varian": [
       {
-        "name": "SSH ID 🇮🇩 7 hari, 1ip.",
+        "name": "SSH/ V2ray ID 🇮🇩 7 hari, 1ip.",
         "harga_asli": 5000,
         "harga_diskon": 3000
       },
       {
-        "name": "SSH ID 🇮🇩 15 hari 1ip.",
+        "name": "SSH/ V2ray ID 🇮🇩 15 hari 1ip.",
         "harga_asli": 7000,
         "harga_diskon": 5000
       },
       {
-        "name": "SSH ID 🇮🇩 30 hari 1ip",
+        "name": "SSH/ V2ray ID 🇮🇩 30 hari 1ip",
         "harga_asli": 13000,
         "harga_diskon": 8000
       },
       {
-        "name": "SSH ID 🇮🇩 30 hari 2ip",
+        "name": "SSH/ V2ray ID 🇮🇩 30 hari 2ip",
         "harga_asli": 15000,
         "harga_diskon": 12000
       },
       {
-        "name": "SSH ID 🇮🇩 60 hari 2ip",
+        "name": "SSH/ V2ray ID 🇮🇩 60 hari 2ip",
         "harga_asli": 30000,
         "harga_diskon": 20000
       },
       {
-        "name": "SSH SG 🇸🇬 7 hari, 1ip.",
+        "name": "SSH/ V2ray SG 🇸🇬 7 hari, 1ip.",
         "harga_asli": 5000,
         "harga_diskon": 3000
       },
       {
-        "name": "SSH SG 🇸🇬 15 hari, 1ip.",
+        "name": "SSH/ V2ray SG 🇸🇬 15 hari, 1ip.",
         "harga_asli": 8000,
         "harga_diskon": 5000
       },
       {
-        "name": "SSH SG 🇸🇬 30 hari, 1ip.",
+        "name": "SSH/ V2ray SG 🇸🇬 30 hari, 1ip.",
         "harga_asli": 11000,
         "harga_diskon": 8000
       },
       {
-        "name": "SSH SG 🇸🇬 30 hari, 2ip.",
+        "name": "SSH/ V2ray SG 🇸🇬 30 hari, 2ip.",
         "harga_asli": 12000,
         "harga_diskon": 10000
       }
