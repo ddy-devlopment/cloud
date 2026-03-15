@@ -116,6 +116,39 @@
     "url": "https://snayders.web.id/product/i.197503.257362538"
   },
   {
+    "nama": "UDP ZIVPN ID 🇮🇩 ",
+    "stok": "in-stock",
+    "terjual": 2406,
+    "rating": 4.8,
+    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/580c20fe.jpg",
+    "deskripsi_singkat": "UDP ZIVPN ID 🇮🇩, SERVER UDP DEDICATED + CONFIG ZIVPN. DENGAN KECEPATAN STABIL",
+    "deskripsi_lengkap": "UDP ZIVPN Dedicated Server – Indonesia \nServer dedicated dengan performa maksimal dan stabil.\nCocok untuk kebutuhan sosial media dll. koneksi aman terenkripsi.\n\n#Kartu XL - Axis\n#Tkp Jabar-Sumatra\nKecepatan Hingga 5-10Mbps.\n\n~Unlimited, tanpa kuota. Kartu harus aktif!!",
+    "varian": [
+      {
+        "name": "UDP ZIVPN 15hr, 1ip",
+        "harga_asli": 9000,
+        "harga_diskon": 6000
+      },
+      {
+        "name": "UDP ZIVPN 30hr, 1ip",
+        "harga_asli": 15000,
+        "harga_diskon": 10000
+      },
+      {
+        "name": "UDP ZIVPN 30hr, 2ip",
+        "harga_asli": 18000,
+        "harga_diskon": 15000
+      },
+      {
+        "name": "UDP ZIVPN 60hr, 2ip",
+        "harga_asli": 40000,
+        "harga_diskon": 29000
+      }
+    ],
+    "id": "i.742179.469362171",
+    "url": "https://snayders.web.id/product/i.742179.469362171"
+  },
+  {
     "nama": "Alight Motion Premium 1 tahun",
     "stok": "in-stock",
     "terjual": 2100,
@@ -286,38 +319,5 @@
     ],
     "id": "i.680369.430009955",
     "url": "https://snayders.web.id/product/i.680369.430009955"
-  },
-  {
-    "nama": "UDP ZIVPN ID 🇮🇩 ",
-    "stok": "in-stock",
-    "terjual": 2406,
-    "rating": 4.8,
-    "gambar": "https://raw.githubusercontent.com/klandestin-s/Cloud_v2/main/tmp/580c20fe.jpg",
-    "deskripsi_singkat": "UDP ZIVPN ID 🇮🇩, SERVER UDP DEDICATED + CONFIG ZIVPN. DENGAN KECEPATAN STABIL",
-    "deskripsi_lengkap": "UDP ZIVPN Dedicated Server – Indonesia \nServer dedicated dengan performa maksimal dan stabil.\nCocok untuk kebutuhan sosial media dll. koneksi aman terenkripsi.\n\n#Kartu XL - Axis\n#Tkp Jabar-Sumatra\nKecepatan Hingga 5-10Mbps.\n\n~Unlimited, tanpa kuota. Kartu harus aktif!!",
-    "varian": [
-      {
-        "name": "UDP ZIVPN 15hr, 1ip",
-        "harga_asli": 9000,
-        "harga_diskon": 6000
-      },
-      {
-        "name": "UDP ZIVPN 30hr, 1ip",
-        "harga_asli": 15000,
-        "harga_diskon": 10000
-      },
-      {
-        "name": "UDP ZIVPN 30hr, 2ip",
-        "harga_asli": 18000,
-        "harga_diskon": 15000
-      },
-      {
-        "name": "UDP ZIVPN 60hr, 2ip",
-        "harga_asli": 40000,
-        "harga_diskon": 29000
-      }
-    ],
-    "id": "i.742179.469362171",
-    "url": "https://snayders.web.id/product/i.742179.469362171"
   }
 ]
